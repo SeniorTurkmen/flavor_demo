@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399366990643",
+    "project_id": "flavorprod-4c421",
+    "storage_bucket": "flavorprod-4c421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399366990643:android:b63526cd3c65707917ac46",
+        "android_client_info": {
+          "package_name": "com.seniorturkmen.flavor_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399366990643-gchvb2m1p3pt7nj2ljp5getb26397su2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_D51Ee6jt2Pkfuk-Elx0tu6il8bi5D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399366990643-gchvb2m1p3pt7nj2ljp5getb26397su2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

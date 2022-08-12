@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480093841198",
+    "project_id": "flavordev-cdc4a",
+    "storage_bucket": "flavordev-cdc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480093841198:android:ec0d1f13b72d59ebf1fcbf",
+        "android_client_info": {
+          "package_name": "com.seniorturkmen.flavor_demo_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480093841198-dkc7uh015nuk9fr81o7o3peuibt55tfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRF430fd9wYH3gDFLgNhwkPkdZE77UshI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480093841198-dkc7uh015nuk9fr81o7o3peuibt55tfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
